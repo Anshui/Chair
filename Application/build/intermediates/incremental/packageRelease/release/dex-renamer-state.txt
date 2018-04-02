@@ -1,0 +1,4 @@
+#Thu Mar 15 15:02:23 CST 2018
+base.0=D\:\\AndroidStudioProjects\\Chair\\Application\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

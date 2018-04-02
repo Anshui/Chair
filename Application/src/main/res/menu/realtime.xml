@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/actionAdd"
+        android:title="添加新数据">
+    </item>
+    <item
+        android:id="@+id/actionClear"
+        android:title="清除数据">
+    </item>
+    <item
+        android:id="@+id/actionFeedMultiple"
+        android:title="快速添加数据">
+    </item>
+</menu>
